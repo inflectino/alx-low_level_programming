@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-int put(void)
+int main(void)
 {
-	printf("\"Programming is like building a multilingual puzzle\n");
+	char *a = "\"Programming is like building a multilingual puzzle\n";
+
+	puts(a);
 	return (0);
 }
