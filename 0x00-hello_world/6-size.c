@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - Entry point for the program
+ * main - Size
  *
- * This function is the entry point for the program. It initializes any
- * necessary data structures or resources, and then calls other functions
- * to perform the main processing for the program.
+ * C program that prints the size of various types on the computer
+ * it is compiled and run on
  *
  * Return: 0 on success, non-zero on failure
  */
@@ -19,7 +18,7 @@ int main(void)
 	float f;
 
 	printf("Size of a char: %lu byte(s)\n", (unsigned long)sizeof(c));
-	printf("Size of a int: %lu byte(s)\n", (unsigned long)sizeof(i));
+	printf("Size of an int: %lu byte(s)\n", (unsigned long)sizeof(i));
 	printf("Size of a long int: %lu byte(s)\n", (unsigned long)sizeof(li));
 	printf("Size of a long long int: %lu byte(s)\n", (unsigned long)sizeof(lli));
 	printf("Size of a float: %lu byte(s)\n", (unsigned long)sizeof(f));
