@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - Alphabets
+ * main - function print_alphabet
  *
  * Print Alphabets using _putchar
  *
