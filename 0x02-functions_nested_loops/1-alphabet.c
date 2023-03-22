@@ -2,7 +2,7 @@
 /**
  * main - function print_alphabet
  *
- * Print Alphabets using _putchar
+ * Print -> Alphabets using _putchar
  *
  * Return: 0 Alwyas
  */
