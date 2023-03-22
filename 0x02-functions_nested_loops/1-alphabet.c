@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
  * main - Alphabets
  *
- * Return: 0 on success
+ * Return: 0 Alwyas
  */
+
 void print_alphabet(void)
 {
 	int lc;
@@ -13,4 +15,4 @@ void print_alphabet(void)
 		_putchar(lc);
 	}
 	_putchar('\n');
-}
+}	
