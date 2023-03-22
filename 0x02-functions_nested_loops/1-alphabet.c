@@ -2,6 +2,8 @@
 /**
  * main - Alphabets
  *
+ * Print Alphabets using _putchar
+ *
  * Return: 0 Alwyas
  */
 void print_alphabet(void)
@@ -13,4 +15,4 @@ void print_alphabet(void)
 		_putchar(lc);
 	}
 	_putchar('\n');
-}	
+}
