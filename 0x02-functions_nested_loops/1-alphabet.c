@@ -7,7 +7,6 @@
 int main(void)
 {
 	int lc;
-	int uc;
 
 	for (lc = 'a'; lc <= 'z'; lc++)
 	{
